@@ -13,7 +13,7 @@ In the README.md of each challenge you will find:
 - The challenge's maximum score, depending on its difficulty level
 
 List of challenges: 
--  ... pt
+- `Stuck on you ... 500 pt`
 
 GENERAL INSTRUCTIONS:
 - clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-WEB.git``
