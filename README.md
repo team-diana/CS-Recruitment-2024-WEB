@@ -10,4 +10,4 @@ Francesco, the beutiful designer decided that the control module needs to look l
 Code the module in the preferred language.
 
 ## Challenge's score
-Total score: 400
+Total score: 500
