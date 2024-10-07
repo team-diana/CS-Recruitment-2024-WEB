@@ -14,6 +14,7 @@ In the README.md of each challenge you will find:
 
 List of challenges: 
 - `Stuck on you ... 500 pt`
+- `Lollipop ... 500 pt`
 
 GENERAL INSTRUCTIONS:
 - clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2024-WEB.git``
