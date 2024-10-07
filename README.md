@@ -2,7 +2,7 @@
 
 One essential feature of every rover, is the ability to traverse terrain. Sometimes is useful for the Astronaut to be able to move it.
 
-Francesco, the beutiful designer decided that the control module needs to look like this:
+Francesco, our beutiful designer decided that the control module needs to look like this:
 
 ![](./assets/module.jpg)
 
